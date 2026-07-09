@@ -76,4 +76,4 @@ To help you get your feet wet and get you familiar with our contribution process
 ### License
 
 React is [MIT licensed](./LICENSE).
-this file has been edited by Xander Gilbert
+this file has been edited by Xander Gilbert Updated for Dev branch
